@@ -139,6 +139,9 @@ Date Collected | Test Name | Results | Interpretation | Notes
 ### Photos
 [coming]
 
+### Photos from Second Bout
+
+
 ### References
 Galván, Casas C et al., "Classification of the cutaneous manifestations of COVID-19: a rapid prospective nationwide consensus study in Spain with 375 cases.", British Journal of Dermatology, April 29, 2020. https://www.ncbi.nlm.nih.gov/pubmed/32348545
 
