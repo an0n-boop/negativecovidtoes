@@ -140,7 +140,7 @@ Date Collected | Test Name | Results | Interpretation | Notes
 [coming]
 
 ### Photos from Second Bout
-
+![200](https://github.com/an0n-boop/negativecovidtoes/blob/master/secondphotos/00%20Fri%20Jun%2019%20restart%20right%20foot%20second%20toe%20mildly%20itchy.jpeg)
 
 ### References
 Galván, Casas C et al., "Classification of the cutaneous manifestations of COVID-19: a rapid prospective nationwide consensus study in Spain with 375 cases.", British Journal of Dermatology, April 29, 2020. https://www.ncbi.nlm.nih.gov/pubmed/32348545
