@@ -140,7 +140,50 @@ Date Collected | Test Name | Results | Interpretation | Notes
 [coming]
 
 ### Photos from Second Bout
+#### Fri Jun 19, toes restart right foot second toe mildly itchy
 ![200](https://github.com/an0n-boop/negativecovidtoes/blob/master/secondphotos/00%20Fri%20Jun%2019%20restart%20right%20foot%20second%20toe%20mildly%20itchy.jpeg)
+
+#### Sun Jun 21 right foot swelling start Clobetasol
+![201](https://github.com/an0n-boop/negativecovidtoes/blob/master/secondphotos/01%20Sun%20Jun%2021%20right%20foot%20swelling%20start%20Clobetasol.png)
+
+#### Sun Jun 21 after walk 1 of 2
+![202](https://github.com/an0n-boop/negativecovidtoes/blob/master/secondphotos/02%20Sun%20Jun%2021%20after%20walk%201%20of%202.jpeg)
+
+#### Sun Jun 21 after walk 2 of 2
+![203](https://github.com/an0n-boop/negativecovidtoes/blob/master/secondphotos/02%20Sun%20Jun%2021%20after%20walk%202%20of%202.jpeg)
+
+#### Fri Jul 3 12 days after restart
+![204](https://github.com/an0n-boop/negativecovidtoes/blob/master/secondphotos/04%20Fri%20Jul%203%2012%20days%20after%20restart.jpeg)
+
+#### Mon Jul 6 15 days after restart
+![205](https://github.com/an0n-boop/negativecovidtoes/blob/master/secondphotos/05%20Mon%20Jul%206%2015%20days%20after%20restart.jpeg)
+
+#### Sun Jul 12 3 weeks after restart 1 of 3
+![206](https://github.com/an0n-boop/negativecovidtoes/blob/master/secondphotos/06%20Sun%20Jul%2012%203%20weeks%20after%20restart%201%20of%203.jpeg)
+
+#### Sun Jul 12 3 weeks after restart 2 of 3
+![207](https://github.com/an0n-boop/negativecovidtoes/blob/master/secondphotos/07%20Sun%20Jul%2012%203%20weeks%20after%20restart%202%20of%203.jpeg)
+
+#### Sun Jul 12 3 weeks after restart 3 of 3
+![208](https://github.com/an0n-boop/negativecovidtoes/blob/master/secondphotos/08%20Sun%20Jul%2012%203%20weeks%20after%20restart%203%20of%203.jpeg)
+
+#### Fri Jul 17 Hands Swollen, Right Hand More Swollen
+![209](https://github.com/an0n-boop/negativecovidtoes/blob/master/secondphotos/09%20Fri%20Jul%2017%20Hands%20Swollen%20RH%20More.jpeg)
+
+#### Sun Jul 19 4 weeks after restart
+![210](https://github.com/an0n-boop/negativecovidtoes/blob/master/secondphotos/10%20Sun%20Jul%2019%204%20weeks%20after%20restart.jpeg)
+
+#### Mon Jul 27 5 weeks after restart
+![214](https://github.com/an0n-boop/negativecovidtoes/blob/master/secondphotos/14%20Mon%20Jul%2027%205%20weeks%20after%20restart.jpeg)
+
+#### Mon Aug 3 6 weeks after restart
+![211](https://github.com/an0n-boop/negativecovidtoes/blob/master/secondphotos/11%20Mon%20Aug%203%206%20weeks%20after%20restart.jpeg)
+
+#### Mon Aug 10 7 weeks after restart
+![212](https://github.com/an0n-boop/negativecovidtoes/blob/master/secondphotos/12%20Mon%20Aug%2010%207%20weeks%20after%20restart.jpeg)
+
+#### Mon Aug 17 8 weeks after restart
+![213](https://github.com/an0n-boop/negativecovidtoes/blob/master/secondphotos/13%20Mon%20Aug%2017%208%20weeks%20after%20restart.jpeg)
 
 ### References
 Galván, Casas C et al., "Classification of the cutaneous manifestations of COVID-19: a rapid prospective nationwide consensus study in Spain with 375 cases.", British Journal of Dermatology, April 29, 2020. https://www.ncbi.nlm.nih.gov/pubmed/32348545
