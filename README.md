@@ -150,7 +150,7 @@ Date Collected | Test Name | Results | Interpretation | Notes
 ![202](https://github.com/an0n-boop/negativecovidtoes/blob/master/secondphotos/02%20Sun%20Jun%2021%20after%20walk%201%20of%202.jpeg)
 
 #### Sun Jun 21 after walk 2 of 2
-![203](https://github.com/an0n-boop/negativecovidtoes/blob/master/secondphotos/02%20Sun%20Jun%2021%20after%20walk%202%20of%202.jpeg)
+![203](https://github.com/an0n-boop/negativecovidtoes/blob/master/secondphotos/03%20Sun%20Jun%2021%20after%20walk%202%20of%202.jpeg)
 
 #### Fri Jul 3 12 days after restart
 ![204](https://github.com/an0n-boop/negativecovidtoes/blob/master/secondphotos/04%20Fri%20Jul%203%2012%20days%20after%20restart.jpeg)
